@@ -1,0 +1,8 @@
+{
+  "name": "DiGi Creative AI",
+  "description": "A mobile-first digital content platform for automated AI-powered content generation across text, images, and documents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
